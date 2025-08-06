@@ -73,3 +73,7 @@ footer {
   font-size: 0.9rem;
   margin-top: 3rem;
 }
+.logo img {
+  max-width: 150px;
+  height: auto;
+}
